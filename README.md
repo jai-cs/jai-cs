@@ -13,6 +13,7 @@ Here's some stuff about me:
 - 📫 How to reach me: DM me on twitter.
 - ⚡ Fun fact: I can speak 4 languages (English, Hindi, Arabic & Gujarati) !
 </p>
+
 #### Github Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jai-cs&show_icons=true)
