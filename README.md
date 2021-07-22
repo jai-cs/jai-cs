@@ -9,7 +9,7 @@
 Here's some stuff about me:
 
 - 🔭 I’m currently working on [Python based Face Mask detection web app](https://github.com/jai-cs/Face-Mask-Detection).
-- 🌱 I’m currently learning Flutter Development to make mobile applications.
+- 🌱 I’m currently learning Deep Learning & Neural Networks to make mobile applications.
 - 📫 How to reach me: DM me on twitter.
 - ⚡ Fun fact: I can speak 4 languages (English, Hindi, Arabic & Gujarati) !
 </p>
