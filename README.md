@@ -8,8 +8,8 @@
 <p>
 Here's some stuff about me:
 
-- 🔭 I’m currently working on [Python based Face Mask detection web app](https://github.com/jai-cs/Face-Mask-Detection).
-- 🌱 I’m currently learning Deep Learning & Neural Networks.
+- 🔭 I’m currently working on [Django based Newsletter Generator](https://github.com/jai-cs/Newsletter-Generator).
+- 🌱 I’m currently learning backend Web Development.
 - 📫 How to reach me: DM me on twitter.
 - ⚡ Fun fact: I can speak 4 languages (English, Hindi, Arabic & Gujarati) !
 </p>
